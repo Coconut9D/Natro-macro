@@ -40,7 +40,6 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
 </div>
 
 
-
 <a name="installation"><h2>🛠️ Installation</h2></a>
 
 1. Download `Natro_Macro_v#.#.#.zip` from the [latest release][latest-release-link]
