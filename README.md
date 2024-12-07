@@ -5,7 +5,7 @@
 \_\ \/ \__,_|\__|_|  \___/  \/    \/\__,_|\___|_|  \___/                                                    
 
 Thanks for downloading Natro Macro!
-  
+   
 To start the macro, just open 'START.bat'!
 
 If you need help or want to discuss, join our Discord server!
